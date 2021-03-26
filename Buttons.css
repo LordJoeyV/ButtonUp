@@ -1,0 +1,33 @@
+*{
+    margin:20px;
+}
+#Search-button{
+    border:5px solid;
+    width:80px;
+    height:10px;
+    border-radius: 10px;
+    color:aqua;
+    border-color: aqua;
+    text-align: center;
+    padding: 3px 7px 7px 7px;
+}
+#plus-button{
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    background-color: aqua;
+    color:white;
+    text-align: center;
+    text-emphasis-position: center;
+    padding: 15px 15px 15px 15px;
+
+}
+#create-account{
+    height: 10px;
+    width: 100px;
+    background-color: blue;
+    box-shadow: 2px 5px #000000;
+    color: white;
+    padding: 7px 15px 15px 15px;
+    text-align: center;
+    }
